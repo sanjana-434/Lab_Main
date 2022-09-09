@@ -1,0 +1,152 @@
+1) The most appropriate matching for the following pairs
+
+X: m=malloc(5); m= NULL;        1: using dangling pointers
+Y: free(n); n-> value=5;        2: using uninitialized pointers
+Z: char *p; *p = ’a’;           3. lost memory
+
+A) X-3 Y-2 Z-1
+B) X-1 Y-3 Z-2
+C) X-3 Y-1 Z-2
+D) X-2 Y-1 Z-3
+[Topic : Pointers]
+
+
+
+
+2) What is printed by main when this program fragment runs?
+
+    int F1 (int veggie) {
+        return veggie + 1;
+    }
+    int main (void) {
+        int veggie= 2, onion = 3;
+        onion = F1 (4);
+        printf ("%d %d", veggie, onion); }
+A) 1 2
+B) 2 5
+C) 3 3
+D) 2 3
+[Topic : Functions]
+
+3) Which of the following statements regarding streams and files in the 
+C programming language is INCORRECT?
+
+A) In C, a stream is any source of input or any destination of output;
+B) The following statement will output “out of memory” followed by a newline
+character to the STANDARD ERROR channel:
+fprintf(stdout, "out of memory\n");
+C) The fopen function returns NULL when it fails to open a file;
+D) The notion of lines does NOT apply to binary files.
+[Topic : File Handling]
+
+
+
+
+
+4) What will be the output of the following C program?
+    #define TANK(a) a*10+2
+    int main(){
+        int a = TANK(2)*2;
+        printf("%d",a);
+        return 0;
+    }
+
+A) 44
+B) 22
+C) 24
+D) Compile error
+[Topic : Preprocessor]
+
+
+5) What will be the output of the following C code?
+    #include  <stdio.h>
+    enum NUM{ a, b, c=5 };
+    int main(){
+        enum NUM s;
+        b=10
+        printf("%d",b);
+    }
+
+A) Compilation Error
+B) 10
+C) 1
+D) 4
+[Topic : Structures,Enum,Typedef,Union]
+
+6) What does fp point to in the following program?
+
+    #include <stdio.h>
+    int main() {
+        FILE *fp;
+        fp = fopen (“hello”, “r”);
+        return 0;
+    }
+
+A) The first character in the file
+B) A structure which contains a char pointer which points to the first character of a file
+C) The name of the file
+D) The last character in the file
+[Topic : File Handling]
+
+7) What will happen if you compile and run the following C code?
+
+    #include <stdio.h>
+    int main(){
+        static int i=5;
+        if (--i){
+        printf("%d ",i);
+        main(); }
+    }
+A) 1 2 3 4
+B) 0 0 0 0
+C) 4 4 4 4
+D) 4 3 2 1
+[Topic : Scope rules and storage classes]
+
+8) If p and q are pointers to int, pointing to elements of an array, which of the following
+statements is not valid:
+
+A) p = q + 2;
+B) *p = p - q;
+C) *p = p + q;
+D) *p = *p + *q;
+[Topic : Pointers]
+
+
+
+
+
+
+9) What is the mistake in the following declaration?
+    struct outer{
+        int a;
+        struct inner {
+            char c;
+        };
+        };
+A) Nesting of structure is not allowed in c
+B) It is necessary to initialize the member variable
+C) Inner structure must have a variable defined
+D) Outer structure must have a variable defined
+[Topic : Structure,Union,Typedef,Enum]
+
+
+
+
+10) What is the output of the following C program?
+    #define CVV 156
+    int main()
+    {
+        int a=10;
+        a = a*CVV;
+        printf("CVV=%d",a);
+        return 0;
+    }
+A) CVV=0
+B) CVV=1570
+C) CVV=1560
+D) Compiler Error
+[Topic : Preprocessor]
+
+
+

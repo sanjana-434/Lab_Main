@@ -1,0 +1,151 @@
+1) C-value in genome represents___________
+
+A) Genetic disorders
+B) Phenotypic variation
+C) Amount of DNA present in the genome
+D) Qualitative traits
+
+
+
+
+
+
+
+
+
+2) Eukaryotes and prokaryotes have either DNA genome or RNA genome.
+
+A) True
+B) False
+
+
+
+
+
+
+
+
+
+
+
+3) Name the phenomenon which shows the lack of correlation in genome 
+size and genetic complexity.
+
+A) Histogram
+B) Karyogram
+C) Dendrogram
+D) C-value paradox
+
+
+
+
+
+
+
+
+4) What is the genome size of yeast?
+
+A) 12
+B) 120
+C) 170
+D) 3,300
+
+
+
+
+
+
+
+
+
+5) Name the sequences which are present in more than one 
+copy in a haploid genome?
+
+A) Nonrepetitive DNA
+B) Highly repetitive DNA
+C) Repetitive DNA
+D) Minisatellite
+
+
+
+
+
+
+
+
+6) What is alphoid DNA?
+
+A) Large size DNA
+B) Sequences that are unique
+C) DNA repeats found in centromere region
+D) Highly repetitive DNA
+
+
+
+
+
+
+
+
+
+7) ____________ is the large-scale study of proteins
+
+A. Genomics
+B. Proteomics
+C. Both A and B
+D. Protiomics
+
+
+
+
+
+
+
+
+
+8) Chloroplast localization signals are also located in the __________
+ terminus and are about 25 to 100 residues in length, containing very few 
+ _______ charged residues but many hydroxylated residues such as serine.
+
+A. C, negatively
+B. C, positively
+C. N, negatively
+D. N, positively
+
+
+
+
+
+
+
+9) A cell may make different sets of proteins at different times 
+or under different conditions
+
+A. TRUE
+B. FALSE
+C. Can be true or false
+D. Can not say
+
+
+
+
+
+
+
+
+10) Expression proteomics includes the analysis of protein expression at larger scale.
+
+A. Yes
+B. No
+C. Can be yes or no
+D. Can not say
+
+
+
+
+
+
+
+
+
+

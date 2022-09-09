@@ -1,0 +1,5 @@
+There are four types of number system.
+1)Binary number system.
+2)Decimal number system.
+3)Hexadecimal number system.
+4)Octal number system.

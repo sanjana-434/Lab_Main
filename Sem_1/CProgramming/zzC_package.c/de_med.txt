@@ -1,0 +1,152 @@
+1) A semiconductor is formed by ……… bonds.
+
+A) Covalent
+B) Electrovalent
+C) Co-ordinate
+D) None of the above
+
+
+
+
+
+
+
+
+
+2) A semiconductor has generally ……………… valence electrons.
+
+A) 2
+B) 3
+C) 6
+D) 4
+
+
+
+
+
+
+
+
+
+3) When a pure semiconductor is heated, its resistance …………..
+
+A) Goes up
+B) Goes down
+C) Remains the same
+D) Can’t say
+
+
+
+
+
+
+
+
+
+4) The carry propagation can be expressed as ________
+
+A) Cp = AB
+B) Cp = A + B
+C) All but Y0 are LOW
+D) All but Y0 are HIGH
+
+
+
+
+
+
+
+
+
+5) 3 bits full adder contains ________
+
+A) 3 combinational inputs
+B) 4 combinational inputs
+C) 6 combinational inputs
+D) 8 combinational inputs
+
+
+
+
+
+
+
+
+
+6) Which of the following electrical characteristics is 
+not exhibited by an ideal op-amp?
+
+a) Infinite voltage gain
+b) Infinite bandwidth
+c) Infinite output resistance
+d) Infinite slew rate
+
+
+
+
+
+
+
+
+
+7) Which of the following electrical characteristics is not 
+exhibited by an ideal op-amp?
+
+a) Infinite voltage gain
+b) Infinite bandwidth
+c) Infinite output resistance
+d) Infinite slew rate
+
+
+
+
+
+
+
+8) The expression for Absorption law is given by _________ 
+
+a) A + AB = A 
+b) A + AB = B 
+c) AB + AA’ = A 
+d) A + B = B + A
+
+
+
+
+
+
+
+
+
+9) Complement of the expression A’B + CD’ is _________ 
+
+a) (A’ + B)(C’ + D) 
+b) (A + B’)(C’ + D) 
+c) (A’ + B)(C’ + D) 
+d) (A + B’)(C + D’)
+
+
+
+
+
+
+
+
+
+10) The involution of A is equal to _________ 
+
+a) A 
+b) A’ 
+c) 1 
+d) 0
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,154 @@
+1) A variable on its own or in its complemented form is 
+known as a __________ 
+
+a) Product Term 
+b) Literal 
+c) Sum Term 
+d) Word
+
+
+
+
+
+
+
+
+2) Canonical form is a unique way of representing ____________ 
+
+a) SOP 
+b) Minterm 
+c) Boolean Expressions 
+d) POS
+
+
+
+
+
+
+
+
+
+3) The expression Y=(A+B)(B+C)(C+A) shows the _________ operation. 
+
+a) AND 
+b) POS 
+c) SOP 
+d) NAND
+
+
+
+
+
+
+
+
+
+4) The boolean function A + BC is a reduced form of ____________ 
+
+a) AB + BC 
+b) (A + B)(A + C) 
+c) A’B + AB’C 
+d) (A + C)B
+
+
+
+
+
+
+
+
+
+5) Find the output voltage of an ideal op-amp. If V1 and V2 are the 
+two input voltages
+
+a) VO= V1-V2
+b) VO= A×(V1-V2)
+c) VO= A×(V1+V2)
+d) VO= V1×V2
+
+
+
+
+
+
+
+
+
+6) Find the input voltage of an ideal op-amp. It’s one of the inputs and 
+output voltages are 2v and 12v. (Gain=3)
+
+a) 8v
+b) 4v
+c) -4v
+d) -2v
+
+
+
+
+
+
+
+7) Which factor determine the output voltage of an op-amp?
+
+a) Positive saturation
+b) Negative saturation
+c) Both positive and negative saturation voltage
+d) Supply voltage
+
+
+
+
+
+
+
+
+
+8) Ideal op-amp has infinite voltage gain because
+
+a) To control the output voltage
+b) To obtain finite output voltage
+c) To receive zero noise output voltage
+d) None of the mentioned
+
+
+
+
+
+
+
+
+
+9) Addition of trivalent impurity to a semiconductor creates many ……..
+
+A) Holes
+B) Free electrons
+C) Valence electrons
+D) Bound electrons
+
+
+
+
+
+
+
+
+
+10) How many truth table entries are necessary for 
+    a four-input circuit?
+
+a) 4
+b) 8
+c) 12
+d) 16
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,167 @@
+1)Which number system has a base of 16?
+
+A)Binary
+B)Decimal
+C)Octal
+D)Hexadecimal
+
+[Topic:Number systems]
+
+
+
+
+
+
+
+2)If J and K are connected commonly then which 
+flip flop is formed?
+
+A)K Flip-flop
+B)T Flip-flop
+C)Shorted J-K Flip-flop
+D)D Flip-flop
+
+[Topic:Sequential circuits]
+
+
+
+
+
+
+3)Truth table is used to express
+
+A)Boolean algebra
+B)Boolean expression
+C)Boolean map
+D)Boolean addition
+
+[Topic:Logical gates and families]
+
+
+
+
+
+
+
+4)A De-coder is present at
+
+A)De-coding end
+B)Receiving end
+C)Selection end
+D)Transmission end
+
+[Topic:Combinational circuits]
+
+
+
+
+
+
+
+5)An Operational Amplifier has ________ resistors.
+
+A)20
+B)21
+C)19
+D)22
+
+[Topic:Operational Amplifiers]
+
+
+
+
+
+
+
+6)A BJT has _____ junctions.
+
+A)3
+B)4
+C)5
+D)2
+
+[Topic:Basics of Semi-conductors]
+
+
+
+
+
+
+
+7)A K-map with four variables has _____ cells.
+
+A)32
+B)16
+C)12
+D)8
+
+[Topic:Boolean Algebra and K-Maps]
+
+
+
+
+
+
+
+8)A 8-bit counter consists of ___ full-counter(s) 
+and ____ half-counter(s).
+
+A)8,0
+B)7,1
+C)6,2
+D)0,8
+
+[Topic:Sequential circuits]
+
+
+
+
+
+
+9)What is a digital to analog convertor?
+
+A)It stores digital data on the computer.
+B)It converts alternating current (AC) into direct current (DC).
+C)It converts electrical power into mechanical power.
+D)It takes the digital data from an audio CD and converts it to a
+useful form.
+
+[Topic:Unit-8]
+
+
+
+
+
+
+9) In the toggle mode, a JK flip-flop has
+
+A)J = 0, K = 1
+B)J = 1, K = 1
+C)J = 0, K = 0
+D)J = 1, K = 0
+
+[Topic:Sequential circuits]
+
+
+
+
+
+
+
+10) De Morgan's Law states that
+
+A)(A+B)' = A'*B
+B)(AB)' = A' + B'
+C)(AB)' = A' + B
+D)(AB)' = A + B
+
+[Topic:Boolean algebra and K-map]
+
+
+
+
+
+
+
+
+

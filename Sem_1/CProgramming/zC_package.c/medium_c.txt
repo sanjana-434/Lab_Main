@@ -1,0 +1,134 @@
+1) What is the output of this C code?
+	
+	#include <stdio.h>
+	int main()
+	{
+	printf("Hello World ! %d \n", x);
+	}
+
+A) Hello World
+B) Hello World [followed by junk value]
+C) Complilation Error
+D) Runtime Error
+[Topic : C Basics]
+
+
+2)What is the output of the following C program?
+
+	void main()
+	{
+		char c=125;
+		c=c+10;
+		printf("%d",c);
+	}
+
+A) -8
+B) 135
+C) -121
+D) +INF
+[Topic : Data Types]
+
+
+3) Which of the following is a correct way to declare two integer pointers a and b?
+
+A) int *a, int *b;
+B) int *a, *b;
+C) int **a,b
+D) int* a, b;
+[Topic : Pointers]
+
+
+4) What is the output of C Program.?
+
+	int main() {
+	a[3] = {10,12,14};
+	a[1]=20;
+	int i=0;
+	while(i<3) {
+	printf("%d ", a[i]);
+	i++;
+	}
+}
+A) 20 12 14
+B) 10 20 14
+C) 100 12 20
+D) Compiler Error
+[Topic : Array]
+
+
+5) If int requires 4 bytes, the size of array int a[5]={1,2} 
+
+A) 20
+B) 6
+C) 8
+D) 12
+[Topic : Memory and Data representation]
+
+
+6) What will be the output of the C Code?
+
+	#include <stdio.h>;
+	int main()
+	{
+	char x = 0;
+	for (x =0; x<=127; x++)
+	{
+		printf("%d", x);
+	}
+
+return 0;
+}
+
+A) 0, 1, 2, ....., 127
+B) Compilation error
+C) 1, 2, 3, ... 127
+D) 0, 1, 2, …….., 127, -128, -127,……., -2, -1, 0, 1, ……. infinite loop
+[Topic : Data Types]
+
+
+7) Given the declaration statement int arr[5], the type of expression arr is
+
+A) int *
+B) int (*)[5]
+C) int*[5]
+D) char pointer
+[Topic : Pointers]
+
+
+8) Suppose that the following declarations are in effect:
+
+	int a[] = {17, 211, 10, -5, 14, 19};
+	int *p = &a[3];
+	What is the value of *(p+2)?
+
+A) 10
+B) -5
+C) 14
+D) 19
+[Topic : Pointers]
+
+
+9) Given the following definitions, what is the value of b[1][1]?
+
+int b[3][2] = {{1, 2},{3},{5, 4}};
+A) 1
+B) 2
+C) 3
+D) 0
+[Topic : Arrays]
+
+
+10) What is the output of this C Program with String arrays?
+
+	int main() {
+	char *p1 = "GOAT";
+	char *p2;
+	p2 = p1;
+	p2="ANT";
+	printf("%s", p1);
+	}
+A) ANT
+B) GOAT
+C) G
+D) A
+[Topic : Strings]

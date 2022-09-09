@@ -1,0 +1,15 @@
+1) For what value of a & b for which the two surfaces 
+ ax2 – byz = (a+2)x & 4x2y + z3 = 4 will be orthogonal 
+ to each other at the point (1,-1,2).
+
+a) a=1 & b=32
+b) a=−32 & b=1
+c) a=32 & b=1
+d) a=−32 & b=−1
+
+
+
+
+
+
+

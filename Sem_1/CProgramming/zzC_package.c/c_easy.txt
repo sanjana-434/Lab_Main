@@ -1,0 +1,151 @@
+1) C is _______ type of programming language?							
+
+A) Object Oriented
+B) Procedural
+C) Bit level language
+D) Functional
+[Topic : Introduction to c]
+
+
+
+
+
+
+
+
+2) BCPL Language is also called..?                      					
+
+A) C Language
+B) B Language
+C) D Language
+D) None
+[Topic : Introduction to c]
+
+
+
+
+
+
+
+
+3)Which of the following is a c keyword?
+
+A) Braker
+B) go to
+C) Continue
+D) const
+[Topic : Basics of c]
+
+
+
+
+
+
+
+
+4) What will be the output ? (Assume word size is 4 bytes)					
+
+	void main ( ) 
+	{
+ 	int x;
+ 	unsigned y;
+ 	printf(“\n%d %d”, sizeof(x), sizeof(y) );
+	}
+
+A) 4 4 
+B) 4 8
+C) 8 4
+D) 4 2
+[Topic : Data Types]
+
+5) What is the maximum number of dimensions an array in C may have?				
+
+A)20
+B)8
+C)100
+D)Theoretically no limit. The only practical limits are memory size and compilers 
+[Topic : Memory and Data Representation] 
+		
+
+
+
+
+
+
+
+6) What will be the output ?
+
+	void main ( )
+	{
+		printf(“%d”,’B’ < ‘A’ );
+	}
+
+A) 0
+B) 1
+C) Error 
+D) Some character
+[Topic : Standard input and output]
+
+
+
+7) An array index starts with?									
+
+A) -1
+B) 0
+C) 1
+D) 2
+[Topic : Arrays]
+
+
+
+
+
+
+
+
+8) In C language, elements of two-dimensional arrays are store in				
+
+A) Random Order
+B) Row Major order
+C) Column Major Order
+D) Must be specified at the time of defining
+[Topic : Arrays]
+
+
+
+
+
+
+
+
+9) What is the Format specifier used to print a String or Character array in C printf or scanf
+function?
+
+A) %c
+B) %C
+C) %s
+D) %w
+[Topic : String Handling]
+
+
+
+
+
+
+
+10) An entire array is always passed by ___ to a called function.
+
+A) Call by value
+B) Call by reference
+C) Address relocation
+D) Address restructure
+[Topic : Functions]
+
+
+
+
+
+
+
+
+

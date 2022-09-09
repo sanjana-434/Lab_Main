@@ -1,0 +1,2 @@
+The base of the a number system is also called as radix.
+bases/radix for decimal number system is 10.

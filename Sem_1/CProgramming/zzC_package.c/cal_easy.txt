@@ -1,0 +1,151 @@
+1) Implicit functions are those functions ____________
+
+a) Which can be solved for a single variable
+b) Which can not be solved for a single variable
+c) Which can be eliminated to give zero
+d) Which are rational in nature.
+
+
+
+
+
+
+
+
+
+2) If the velocity of car at time t(sec) is directly proportional 
+ to the square of its velocity at time (t-1)(sec). Then find the ratio
+ of acceleration at t=10sec to 9sec if proportionality constant is 
+ k=10 sec/mt and velocity at t=9sec is 10 mt/sec.
+
+a) 100
+b) 200
+c) 150
+d) 250
+
+
+
+
+
+
+3) The point (0,0) in the domain of f(x, y) = sin(xy) is a 
+point of ___________
+
+a) Saddle
+b) Minima
+c) Maxima
+d) Constant
+
+
+
+
+
+
+
+
+4) The point (0,0) in the domain of f(x, y) = sin(xy) 
+is a point of ___________
+
+a) Saddle
+b) Minima
+c) Maxima
+d) Constant
+
+
+
+
+
+
+
+
+5) Consider the vertical cone. The minimum value of 
+the function in the region f(x,y) = c is?
+
+a) constant
+b) 1
+c) 0
+d) -1
+
+
+
+
+
+
+
+
+6) Find the Particular integral solution of the D.E 
+(D2 – 4D + 3)y = 20 cos x by the method of undetermined 
+coefficients.
+
+a) yp = 4 cos⁡x – 3 sin⁡x
+b) yp = 2 sin⁡x – 4 cos⁡x
+c) yp = – 3 cos⁡x + 4 sin⁡x
+d) yp = 2 cos⁡x – 4 sin⁡x
+
+
+
+
+
+
+
+7) For the function f = x2y + 2y2x, at the point P(1,3), 
+what is the direction in which the directional derivative 
+Is zero?
+
+a) −13i^–24j^
+b) 13i^+24j^
+c) ±13i^∓24j^
+d) ∓13i^±24j^
+
+
+
+
+
+
+
+8) Find the directional derivative of φ = xy2 + yz3 at (1, -1, 1), 
+towards the point (2, 1, -1).
+
+a) 5/3
+b) −5/3
+c) 7/3
+d) 1/3
+
+
+
+
+
+
+
+
+9) The directional derivative of φ(x,y) at the point A(3,2) towards
+   the point B(2,3). What is 32–√ and toward the point (1,0) is–√8.
+  What is the directional derivative at the point A towards the point D.
+
+a) 6/5
+b) 7/√5
+c) 6/√5
+d) 7/5
+
+
+
+
+
+
+
+10) Find Lt(x,y)→(0,0)   tan(y)/x
+
+a) ∞
+b) 1
+c) 1⁄2
+d) Does Not Exist
+
+
+
+
+
+
+
+
+
+

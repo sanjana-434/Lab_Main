@@ -80,10 +80,9 @@ public class ps5_12
 	    IgneousRock i = new IgneousRock(12,"Igneous rocks (from the Greek word for \"fire\") form when hot, molten rock (magma) crystallizes and solidifies. ",90);
 	    SedimentaryRock s = new SedimentaryRock(34,"Sedimentary rocks are formed from deposits of pre-existing rocks or pieces of once-living organism that accumulate on the Earth's surface.",59);
 	    MetamorphicRock m = new MetamorphicRock(28,"Metamorphic rocks started out as some other type of rock, but have been substantially changed from their original igneous, sedimentary, or earlier metamorphic form.",179);
-	    System.out.println("\nIgneous Rocks  "+i.toString());
-	    System.out.println("\nMetamorphic Rock  "+m.toString());
-	    System.out.println("\nSedimentary Rock  "+s.toString());
-	    
+	    // System.out.println("\nIgneous Rocks  "+i.toString());
+	    // System.out.println("\nMetamorphic Rock  "+m.toString());
+	    // System.out.println("\nSedimentary Rock  "+s.toString());
 	}
 	
 }
